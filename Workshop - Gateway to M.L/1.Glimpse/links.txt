@@ -1,0 +1,7 @@
+### Blog of Jason Brownlee : https://machinelearningmastery.com/
+
+### Couersera courses By Andrew ng
+ Machine Learning course : https://www.coursera.org/learn/machine-learning
+ Deep Learning Course    : https://www.coursera.org/specializations/deep-learning
+
+AI & THE SUPER FUTURE - AI Keynote Speaker Jeremy Gutsche @ Future Festival: https://www.youtube.com/watch?v=OzBJigTfGeE

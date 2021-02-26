@@ -1,0 +1,6 @@
+ML Cheatsheet : https://ml-cheatsheet.readthedocs.io/en/latest/index.html
+Standford Blog for ML : https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+Image Classifier using CNN : https://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
+ANN theory slides : https://www.slideshare.net/stellajoseph/artificial-neural-networks-15168117
+AI Blog : https://towardsdatascience.com/artificial-intelligence/home
+Siraj Ravel Youtube channel on ML and AI : https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A

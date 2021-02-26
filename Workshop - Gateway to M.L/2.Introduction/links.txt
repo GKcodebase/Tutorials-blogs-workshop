@@ -1,0 +1,3 @@
+Elements of Machine Learning?—?A glimpse :  https://medium.com/@tanikkumar/elements-of-machine-learning-a-glimpse-f6933d7d1a1b
+Machine Learning : https://towardsdatascience.com/machine-learning/home
+What is Machine Learning? | Machine Learning Basics | Machine Learning Tutorial | Edureka :  https://www.youtube.com/watch?v=Pj0neYUp9Tc&list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn
