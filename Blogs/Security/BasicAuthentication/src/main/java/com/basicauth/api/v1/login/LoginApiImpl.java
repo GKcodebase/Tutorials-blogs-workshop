@@ -1,14 +1,18 @@
 package com.basicauth.api.v1.login;
 
-import com.basicauth.service.LoginService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+/**
+ * The Login api.
+ */
 @Component
 public class LoginApiImpl implements LoginApi{
 
-    @Autowired
-    private LoginService loginService;
+    /**
+     * User login string.
+     *
+     * @return the string
+     */
     @Override
     public String userLogin() {
         return "Login Successful";
